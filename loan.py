@@ -26,6 +26,6 @@ elif business_type == "private":
         print("Private Loan Approved")
     else:
         print("No Loan for Private Emp")
-
+        print("Please change job and then come for loan")
 
 
